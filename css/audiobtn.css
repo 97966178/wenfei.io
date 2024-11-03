@@ -16,7 +16,7 @@
   top: 1px;
   width: 30px;
   height: 30px;
-  background-image: url("../images/music.gif");
+  background-image: url("images/music.gif");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 60px 60px;
@@ -30,7 +30,7 @@
   width: 30px;
   height: 30px;
   background-size: 100% 100%;
-  background-image: url("../images/music_off.png");
+  background-image: url("images/music_off.png");
   -webkit-animation: rotating 1.2s linear infinite;
   -moz-animation: rotating 1.2s linear infinite;
   -o-animation: rotating 1.2s linear infinite;
@@ -70,7 +70,7 @@
   float: right;
   top: 1px;
   background-size: 100% 100%;
-  background-image: url("../images/music_no.png");
+  background-image: url("images/music_no.png");
   background-repeat: no-repeat;
   background-position: center center;
 }
